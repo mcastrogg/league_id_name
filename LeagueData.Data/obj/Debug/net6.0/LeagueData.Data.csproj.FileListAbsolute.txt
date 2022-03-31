@@ -1,0 +1,12 @@
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/bin/Debug/net6.0/LeagueData.Data.deps.json
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/bin/Debug/net6.0/LeagueData.Data.dll
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/bin/Debug/net6.0/ref/LeagueData.Data.dll
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/bin/Debug/net6.0/LeagueData.Data.pdb
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/obj/Debug/net6.0/LeagueData.Data.csproj.AssemblyReference.cache
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/obj/Debug/net6.0/LeagueData.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/obj/Debug/net6.0/LeagueData.Data.AssemblyInfoInputs.cache
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/obj/Debug/net6.0/LeagueData.Data.AssemblyInfo.cs
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/obj/Debug/net6.0/LeagueData.Data.csproj.CoreCompileInputs.cache
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/obj/Debug/net6.0/LeagueData.Data.dll
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/obj/Debug/net6.0/ref/LeagueData.Data.dll
+/Users/matias/RiderProjects/LeagueData/LeagueData.Data/obj/Debug/net6.0/LeagueData.Data.pdb
